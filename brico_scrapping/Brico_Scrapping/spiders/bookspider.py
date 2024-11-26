@@ -1,5 +1,5 @@
 import scrapy
-from tuto_scrapping.items import BookItem
+from Brico_Scrapping.items import BookItem
 from random import randint
 from .. import general_func as g
 

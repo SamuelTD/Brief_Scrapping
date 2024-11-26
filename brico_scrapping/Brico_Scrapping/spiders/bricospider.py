@@ -1,5 +1,5 @@
 import scrapy
-from tuto_scrapping.items import SubCategoryItem, CategoryItem
+from Brico_Scrapping.items import SubCategoryItem, CategoryItem
 from .. import general_func as g
 
 class BricospiderSpider(scrapy.Spider):
