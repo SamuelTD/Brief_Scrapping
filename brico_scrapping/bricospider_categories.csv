@@ -1,0 +1,732 @@
+is_page_list,name,url
+False,Cuisine,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/
+False,Terrasse & Jardin,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/
+False,Quincaillerie,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/quincaillerie/
+False,Eclairage de cuisine,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/eclairage-de-cuisine/
+True,Peinture sol extérieur,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/peinture-sol-exterieur/
+True,Signalisation de chantier,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/quincaillerie/signalisation-de-chantier/
+True,Réglette LED,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/eclairage-de-cuisine/reglette-led/
+True,Spot LED,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/eclairage-de-cuisine/spot-led/
+True,Suspension luminaire,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/eclairage-de-cuisine/suspension-luminaire/
+True,Pile & Chargeur,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/quincaillerie/pile-chargeur/
+True,Tôle & Profilé,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/quincaillerie/tole-profile/
+False,Corde - Sangle & Chaîne,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/quincaillerie/corde-sangle-chaine/
+False,Barre à rideau,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/quincaillerie/barre-a-rideau/
+False,Droguerie & Produit d'entretien,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/quincaillerie/droguerie-produit-dentretien/
+True,Barre - Tringle & Câble,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/quincaillerie/barre-a-rideau/barre-tringle-cable/
+True,Tapis et paillasson,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/quincaillerie/droguerie-produit-dentretien/tapis-et-paillasson/
+True,Produit d'entretien,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/quincaillerie/droguerie-produit-dentretien/produit-dentretien/
+True,Balai - Brosse - Chiffon - Pelle & Balayette…,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/quincaillerie/droguerie-produit-dentretien/balai-brosse-chiffon-pelle-balayette/
+True,Sangle & Sandow,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/quincaillerie/corde-sangle-chaine/sangle-sandow/
+True,Accessoires pour câbles et chaînes,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/quincaillerie/corde-sangle-chaine/accessoires-pour-cables-et-chaines/
+True,Câble,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/quincaillerie/corde-sangle-chaine/cable/
+True,Chaine,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/quincaillerie/corde-sangle-chaine/chaine/
+True,Corde et ficelle,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/quincaillerie/corde-sangle-chaine/corde-et-ficelle/
+False,Boîte aux lettres,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/quincaillerie/boite-aux-lettres/
+False,Serrurerie & Sécurité,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/quincaillerie/serrurerie-securite/
+False,Fixation & Assemblage,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/quincaillerie/fixation-assemblage/
+True,Accessoires de boîtes aux lettres,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/quincaillerie/boite-aux-lettres/accessoires-de-boites-aux-lettres/
+True,Boitier et Tringle,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/quincaillerie/serrurerie-securite/boitier-et-tringle/
+True,Scellement chimique,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/quincaillerie/fixation-assemblage/scellement-chimique/
+True,Adhésif,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/quincaillerie/fixation-assemblage/adhesif/
+True,Pied - Roue & Patin,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/quincaillerie/fixation-assemblage/pied-roue-patin/
+True,Cheville,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/quincaillerie/fixation-assemblage/cheville/
+True,Connecteur,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/quincaillerie/fixation-assemblage/connecteur/
+True,Colle,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/quincaillerie/fixation-assemblage/colle/
+True,Cylindre,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/quincaillerie/serrurerie-securite/cylindre/
+True,Serrure en applique,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/quincaillerie/serrurerie-securite/serrure-en-applique/
+True,Serrure à encastrer,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/quincaillerie/serrurerie-securite/serrure-a-encastrer/
+True,Accessoires de sécurité,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/quincaillerie/serrurerie-securite/accessoires-de-securite/
+True,Verrou,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/quincaillerie/serrurerie-securite/verrou/
+True,Cadenas & Antivol,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/quincaillerie/serrurerie-securite/cadenas-antivol/
+True,Coffre-fort et accessoires,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/quincaillerie/serrurerie-securite/coffre-fort-et-accessoires/
+True,Boîte aux lettres,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/quincaillerie/boite-aux-lettres/boite-aux-lettres/
+False,Clouterie - Visserie & Boulonnerie,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/quincaillerie/clouterie-visserie-boulonnerie/
+False,Façade,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/facade/
+False,Coupe bois,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/coupe-bois/
+True,Boulon,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/quincaillerie/clouterie-visserie-boulonnerie/boulon/
+True,Bardage de la façade,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/facade/bardage-de-la-facade/
+True,Petit outillage,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/coupe-bois/petit-outillage/
+True,Sécateur,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/coupe-bois/secateur/
+True,Hâche bois,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/coupe-bois/hache-bois/
+True,Scie à bois,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/coupe-bois/scie-a-bois/
+True,Cisaille à haie,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/coupe-bois/cisaille-a-haie/
+True,Coupe branche,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/coupe-bois/coupe-branche/
+True,Tronçonneuse,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/coupe-bois/tronconneuse/
+True,Peinture extérieure & Lasure,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/facade/peinture-exterieure-lasure/
+True,Plaquette de parement extérieure,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/facade/plaquette-de-parement-exterieure/
+True,Ecrou & Rondelle,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/quincaillerie/clouterie-visserie-boulonnerie/ecrou-rondelle/
+True,Tige filetée & Manchon,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/quincaillerie/clouterie-visserie-boulonnerie/tige-filetee-manchon/
+True,Clou - Pointe & Crochet,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/quincaillerie/clouterie-visserie-boulonnerie/clou-pointe-crochet/
+False,Loisirs extérieurs,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/loisirs-exterieurs/
+True,Vis et tirefond,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/quincaillerie/clouterie-visserie-boulonnerie/vis-et-tirefond/
+False,"Terrasses, allées, revetements",https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/terrasses-allees-revetements/
+True,Robot piscine electrique,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/loisirs-exterieurs/robot-piscine-electrique/
+True,Produit entretien piscine,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/loisirs-exterieurs/produit-entretien-piscine/
+True,Dalle béton,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/terrasses-allees-revetements/dalle-beton/
+True,Dalle bois,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/terrasses-allees-revetements/dalle-bois/
+True,Lame de terrasse composite,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/terrasses-allees-revetements/lame-de-terrasse-composite/
+True,Lame de terrasse bois,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/terrasses-allees-revetements/lame-de-terrasse-bois/
+True,Écorces,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/terrasses-allees-revetements/ecorces/
+True,Gravier allée,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/terrasses-allees-revetements/gravier-allee/
+True,Bordure béton,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/terrasses-allees-revetements/bordure-beton/
+True,Accessoires terrasses,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/terrasses-allees-revetements/accessoires-terrasses/
+True,Carrelage terrasse,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/terrasses-allees-revetements/carrelage-terrasse/
+True,Accessoires de barbecue,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/loisirs-exterieurs/accessoires-de-barbecue/
+True,Barbecue,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/loisirs-exterieurs/barbecue/
+True,Spa gonflable,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/loisirs-exterieurs/spa-gonflable/
+True,Piscine auto-portée,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/loisirs-exterieurs/piscine-auto-portee/
+False,Jardinage,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/jardinage/
+False,Mobilier de jardin,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/mobilier-de-jardin/
+False,Entretien du jardin,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/entretien-du-jardin/
+True,"Sapins, arbres et plantes",https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/jardinage/sapins-arbres-et-plantes/
+True,Poubelle d'extérieur,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/mobilier-de-jardin/poubelle-dexterieur/
+True,Petit outillage,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/entretien-du-jardin/petit-outillage/
+True,Rateaux,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/entretien-du-jardin/rateaux/
+True,Bêche jardin,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/entretien-du-jardin/beche-jardin/
+True,Bâche,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/entretien-du-jardin/bache/
+True,Broyeur végétaux,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/entretien-du-jardin/broyeur-vegetaux/
+True,Coupe-bordure,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/entretien-du-jardin/coupe-bordure/
+True,Taille haie,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/entretien-du-jardin/taille-haie/
+True,Nettoyeur haute pression,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/entretien-du-jardin/nettoyeur-haute-pression/
+True,Débroussailleuse,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/entretien-du-jardin/debroussailleuse/
+True,"Motoculteur, motobineuse, tarière",https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/entretien-du-jardin/motoculteur-motobineuse-tariere/
+True,Tondeuse à gazon,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/entretien-du-jardin/tondeuse-a-gazon/
+True,Accessoires mobilier de jardin,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/mobilier-de-jardin/accessoires-mobilier-de-jardin/
+True,Fauteuil de jardin,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/mobilier-de-jardin/fauteuil-de-jardin/
+True,"Bain de soleil, transat, hamac",https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/mobilier-de-jardin/bain-de-soleil-transat-hamac/
+True,Table de jardin,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/mobilier-de-jardin/table-de-jardin/
+True,Salon de jardin,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/mobilier-de-jardin/salon-de-jardin/
+True,Chaise de jardin,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/mobilier-de-jardin/chaise-de-jardin/
+True,Terreau,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/jardinage/terreau/
+True,Gazon synthétique,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/jardinage/gazon-synthetique/
+True,Geotextile,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/jardinage/geotextile/
+True,Composteur,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/jardinage/composteur/
+True,Bac à fleur,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/jardinage/bac-a-fleur/
+True,Carré potager,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/jardinage/carre-potager/
+True,Serre de jardin,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/jardinage/serre-de-jardin/
+True,Enrouleur tuyau d'arrosage,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/jardinage/enrouleur-tuyau-darrosage/
+True,Tuyau d'arrosage,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/jardinage/tuyau-darrosage/
+True,Récupérateur d'eau,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/jardinage/recuperateur-deau/
+False,"Portail, portillons, clotures",https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/portail-portillons-clotures/
+False,Abri et rangement,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/abri-et-rangement/
+False,"Store bannes, pergolas, barnums",https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/store-bannes-pergolas-barnums/
+True,Poteaux grillage,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/portail-portillons-clotures/poteaux-grillage/
+True,Tonnelle,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/store-bannes-pergolas-barnums/tonnelle/
+True,Store banne,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/store-bannes-pergolas-barnums/store-banne/
+True,Parasol,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/store-bannes-pergolas-barnums/parasol/
+True,Carport,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/store-bannes-pergolas-barnums/carport/
+True,Barnum,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/store-bannes-pergolas-barnums/barnum/
+True,Pergola,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/store-bannes-pergolas-barnums/pergola/
+True,Coffre de jardin,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/abri-et-rangement/coffre-de-jardin/
+True,Abri de jardin,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/abri-et-rangement/abri-de-jardin/
+True,Poteaux clôture,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/portail-portillons-clotures/poteaux-cloture/
+True,Piliers de portail,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/portail-portillons-clotures/piliers-de-portail/
+True,Gabion,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/portail-portillons-clotures/gabion/
+True,Grillage souple,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/portail-portillons-clotures/grillage-souple/
+True,Grillage rigide,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/portail-portillons-clotures/grillage-rigide/
+True,Clôture aluminium,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/portail-portillons-clotures/cloture-aluminium/
+True,Clôture pvc,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/portail-portillons-clotures/cloture-pvc/
+True,Clôture composite,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/portail-portillons-clotures/cloture-composite/
+True,Clôture bois,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/portail-portillons-clotures/cloture-bois/
+True,Portillons,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/portail-portillons-clotures/portillons/
+True,Portails à petit prix,https://www.bricodepot.fr/catalogue/amenagement-despaces/terrasse-jardin/portail-portillons-clotures/portails-a-petit-prix/
+False,Carrelage de cuisine & Lame PVC,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/carrelage-de-cuisine-lame-pvc/
+False,Peinture pour Cuisine,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/peinture-pour-cuisine/
+False,Evier & Robinetterie,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/evier-robinetterie/
+True,Plaquette de parement d'intérieur,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/carrelage-de-cuisine-lame-pvc/plaquette-de-parement-dinterieur/
+True,Résine & Peinture de rénovation,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/peinture-pour-cuisine/resine-peinture-de-renovation/
+True,Raccord d'évacuation,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/evier-robinetterie/raccord-devacuation/
+True,Siphon d'évier,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/evier-robinetterie/siphon-devier/
+True,Bonde d'évier,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/evier-robinetterie/bonde-devier/
+True,Robinet de cuisine,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/evier-robinetterie/robinet-de-cuisine/
+True,Mitigeur de cuisine,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/evier-robinetterie/mitigeur-de-cuisine/
+True,Évier de cuisine,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/evier-robinetterie/evier-de-cuisine/
+True,Peinture Cuisine,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/peinture-pour-cuisine/peinture-cuisine/
+True,Mosaïque,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/carrelage-de-cuisine-lame-pvc/mosaique/
+True,Listel,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/carrelage-de-cuisine-lame-pvc/listel/
+True,Faïence - Carrelage mural,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/carrelage-de-cuisine-lame-pvc/faience-carrelage-mural/
+True,Dalle PVC cuisine,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/carrelage-de-cuisine-lame-pvc/dalle-pvc-cuisine/
+True,Lame PVC cuisine,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/carrelage-de-cuisine-lame-pvc/lame-pvc-cuisine/
+True,Carrelage de sol intérieur,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/carrelage-de-cuisine-lame-pvc/carrelage-de-sol-interieur/
+False,Electroménager,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/electromenager/
+False,"Accessoire de rangement, montage & finition de cuisine",https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/accessoire-de-rangement-montage-finition-de-cuisine/
+False,Aménagement de la cuisine,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/amenagement-de-la-cuisine/
+True,Accessoires électroménager,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/electromenager/accessoires-electromenager/
+True,Accessoire de montage & de finition cuisine,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/accessoire-de-rangement-montage-finition-de-cuisine/accessoire-de-montage-de-finition-cuisine/
+True,Tabouret,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/amenagement-de-la-cuisine/tabouret/
+True,Pied pour table & plan de travail,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/amenagement-de-la-cuisine/pied-pour-table-plan-de-travail/
+True,Poignée & Bouton de porte de cuisine,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/amenagement-de-la-cuisine/poignee-bouton-de-porte-de-cuisine/
+True,Poubelle,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/amenagement-de-la-cuisine/poubelle/
+True,Fond de hotte,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/amenagement-de-la-cuisine/fond-de-hotte/
+True,Crédence,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/amenagement-de-la-cuisine/credence/
+True,"Tiroir, Rangement & Charnière",https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/amenagement-de-la-cuisine/tiroir-rangement-charniere/
+True,Plan de travail,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/amenagement-de-la-cuisine/plan-de-travail/
+True,Range-couvert & accessoire de meuble,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/accessoire-de-rangement-montage-finition-de-cuisine/range-couvert-accessoire-de-meuble/
+True,Accessoire mural de cuisine,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/accessoire-de-rangement-montage-finition-de-cuisine/accessoire-mural-de-cuisine/
+True,Lave-vaisselle,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/electromenager/lave-vaisselle/
+True,Micro-ondes encastrable,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/electromenager/micro-ondes-encastrable/
+True,Réfrigérateur & congélateur,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/electromenager/refrigerateur-congelateur/
+True,Hotte aspirante,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/electromenager/hotte-aspirante/
+True,"Plaque de cuisson vitrocéramique, induction & gaz",https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/electromenager/plaque-de-cuisson-vitroceramique-induction-gaz/
+True,Four encastrable,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/electromenager/four-encastrable/
+True,Petit électroménager,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/electromenager/petit-electromenager/
+False,Meuble de cuisine,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/meuble-de-cuisine/
+False,Outillage,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/
+False,Peinture & Rev\u00EAtement mural,https://www.bricodepot.fr/catalogue/construction-renovation/peinture-revetement-mural/
+True,Etagère cuisine,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/meuble-de-cuisine/etagere-cuisine/
+True,Huile Essence & Lubrifiant,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/huile-essence-lubrifiant/
+False,Sous-couche & Préparation des murs,https://www.bricodepot.fr/catalogue/construction-renovation/peinture-revetement-mural/sous-couche-preparation-des-murs/
+False,Peinture extérieure,https://www.bricodepot.fr/catalogue/construction-renovation/peinture-revetement-mural/peinture-exterieure/
+False,Peinture intérieure,https://www.bricodepot.fr/catalogue/construction-renovation/peinture-revetement-mural/peinture-interieure/
+True,Peinture anti-humidité & Absorbeur,https://www.bricodepot.fr/catalogue/construction-renovation/peinture-revetement-mural/sous-couche-preparation-des-murs/peinture-anti-humidite-absorbeur/
+True,Isolation porte et fenêtre,https://www.bricodepot.fr/catalogue/construction-renovation/peinture-revetement-mural/peinture-exterieure/isolation-porte-et-fenetre/
+True,Colorant,https://www.bricodepot.fr/catalogue/construction-renovation/peinture-revetement-mural/peinture-interieure/colorant/
+True,Résine & Peinture de rénovation,https://www.bricodepot.fr/catalogue/construction-renovation/peinture-revetement-mural/peinture-interieure/resine-peinture-de-renovation/
+True,Aérosol & Peinture en bombe,https://www.bricodepot.fr/catalogue/construction-renovation/peinture-revetement-mural/peinture-interieure/aerosol-peinture-en-bombe/
+True,"Vitrificateur, Vernis, Huile & Produit bois intérieur",https://www.bricodepot.fr/catalogue/construction-renovation/peinture-revetement-mural/peinture-interieure/vitrificateur-vernis-huile-produit-bois-interieur/
+True,Peinture Radiateur & Electroménager,https://www.bricodepot.fr/catalogue/construction-renovation/peinture-revetement-mural/peinture-interieure/peinture-radiateur-electromenager/
+True,Peinture Cuisine & Salle de bains,https://www.bricodepot.fr/catalogue/construction-renovation/peinture-revetement-mural/peinture-interieure/peinture-cuisine-salle-de-bains/
+True,Peinture couleur Mur & Plafond,https://www.bricodepot.fr/catalogue/construction-renovation/peinture-revetement-mural/peinture-interieure/peinture-couleur-mur-plafond/
+True,Peinture blanche Mur & Plafond,https://www.bricodepot.fr/catalogue/construction-renovation/peinture-revetement-mural/peinture-interieure/peinture-blanche-mur-plafond/
+True,Sous-couche,https://www.bricodepot.fr/catalogue/construction-renovation/peinture-revetement-mural/peinture-exterieure/sous-couche/
+True,Cartouche & Mastic,https://www.bricodepot.fr/catalogue/construction-renovation/peinture-revetement-mural/peinture-exterieure/cartouche-mastic/
+True,Peinture sol extérieur,https://www.bricodepot.fr/catalogue/construction-renovation/peinture-revetement-mural/peinture-exterieure/peinture-sol-exterieur/
+True,Peinture fer & Antirouille,https://www.bricodepot.fr/catalogue/construction-renovation/peinture-revetement-mural/peinture-exterieure/peinture-fer-antirouille/
+True,Peinture bois extérieur,https://www.bricodepot.fr/catalogue/construction-renovation/peinture-revetement-mural/peinture-exterieure/peinture-bois-exterieur/
+True,Etanchéité extérieure & Anti-mousse,https://www.bricodepot.fr/catalogue/construction-renovation/peinture-revetement-mural/peinture-exterieure/etancheite-exterieure-anti-mousse/
+True,Lasure & Vernis extérieurs,https://www.bricodepot.fr/catalogue/construction-renovation/peinture-revetement-mural/peinture-exterieure/lasure-vernis-exterieurs/
+True,Peinture façade & Crépi,https://www.bricodepot.fr/catalogue/construction-renovation/peinture-revetement-mural/peinture-exterieure/peinture-facade-crepi/
+True,Enduit de rebouchage - Enduit de lissage & Plâtre,https://www.bricodepot.fr/catalogue/construction-renovation/peinture-revetement-mural/sous-couche-preparation-des-murs/enduit-de-rebouchage-enduit-de-lissage-platre/
+True,Sous-couche intérieure & extérieure,https://www.bricodepot.fr/catalogue/construction-renovation/peinture-revetement-mural/sous-couche-preparation-des-murs/sous-couche-interieure-exterieure/
+False,Revêtement mural,https://www.bricodepot.fr/catalogue/construction-renovation/peinture-revetement-mural/revetement-mural/
+False,Outillage de jardin,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-de-jardin/
+False,Outillage de jardin à main,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-de-jardin-a-main/
+True,Outil du peintre & du tapissier,https://www.bricodepot.fr/catalogue/construction-renovation/peinture-revetement-mural/revetement-mural/outil-du-peintre-du-tapissier/
+True,Tuyau d'arrosage & Dévidoir,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-de-jardin/tuyau-darrosage-devidoir/
+True,Semage,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-de-jardin-a-main/semage/
+True,Coupe,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-de-jardin-a-main/coupe/
+True,"Outil emmanché, Râteau, Fourche, Balai…",https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-de-jardin-a-main/outil-emmanche-rateau-fourche-balai/
+True,Bâche,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-de-jardin-a-main/bache/
+True,Pulvérisateur,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-de-jardin/pulverisateur/
+True,"Petit outillage, Plantoir, Pelle, Hache…",https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-de-jardin-a-main/petit-outillage-plantoir-pelle-hache/
+True,Surpresseur,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-de-jardin/surpresseur/
+True,Dalle - Rosace - Corniche & Moulure,https://www.bricodepot.fr/catalogue/construction-renovation/peinture-revetement-mural/revetement-mural/dalle-rosace-corniche-moulure/
+True,"Pompe de surface, vide-cave & puits",https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-de-jardin/pompe-de-surface-vide-cave-puits/
+True,Crépi & Enduit décoratif,https://www.bricodepot.fr/catalogue/construction-renovation/peinture-revetement-mural/revetement-mural/crepi-enduit-decoratif/
+True,Papier peint,https://www.bricodepot.fr/catalogue/construction-renovation/peinture-revetement-mural/revetement-mural/papier-peint/
+True,Toile de verre & Revêtement intissé à peindre,https://www.bricodepot.fr/catalogue/construction-renovation/peinture-revetement-mural/revetement-mural/toile-de-verre-revetement-intisse-a-peindre/
+True,Listel,https://www.bricodepot.fr/catalogue/construction-renovation/peinture-revetement-mural/revetement-mural/listel/
+True,Mosaïque,https://www.bricodepot.fr/catalogue/construction-renovation/peinture-revetement-mural/revetement-mural/mosaique/
+True,Plaquette de parement d'intérieur,https://www.bricodepot.fr/catalogue/construction-renovation/peinture-revetement-mural/revetement-mural/plaquette-de-parement-dinterieur/
+True,Lambris & Accessoires,https://www.bricodepot.fr/catalogue/construction-renovation/peinture-revetement-mural/revetement-mural/lambris-accessoires/
+True,Faïence - Carrelage mural,https://www.bricodepot.fr/catalogue/construction-renovation/peinture-revetement-mural/revetement-mural/faience-carrelage-mural/
+False,Outillage de jardin motorisé,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-de-jardin-motorise/
+False,Protection de la personne,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/protection-de-la-personne/
+False,Matériel & Aménagement d'atelier,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/materiel-amenagement-datelier/
+True,Ramassage de végétaux,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-de-jardin-motorise/ramassage-de-vegetaux/
+True,"Protection, Lunettes, Masque, Casque, Gants…",https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/protection-de-la-personne/protection-lunettes-masque-casque-gants/
+True,Etau,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/materiel-amenagement-datelier/etau/
+True,Etabli,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/materiel-amenagement-datelier/etabli/
+True,Armoire & Vestiaire,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/materiel-amenagement-datelier/armoire-vestiaire/
+True,Bac & Coffre de rangement,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/materiel-amenagement-datelier/bac-coffre-de-rangement/
+True,Étagère résine - bois & métal,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/materiel-amenagement-datelier/etagere-resine-bois-metal/
+True,Plateau & Tréteau,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/materiel-amenagement-datelier/plateau-treteau/
+True,Chaussures,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/protection-de-la-personne/chaussures/
+True,Vêtement de travail,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/protection-de-la-personne/vetement-de-travail/
+True,"Tronçonneuse, Elagueuse & Scie à bois",https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-de-jardin-motorise/tronconneuse-elagueuse-scie-a-bois/
+True,"Taille-haie, Coupe-bordure & Débroussailleuse",https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-de-jardin-motorise/taille-haie-coupe-bordure-debroussailleuse/
+True,"Tondeuse, Motoculteur & Tarière",https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-de-jardin-motorise/tondeuse-motoculteur-tariere/
+False,Outillage spécialisé,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-specialise/
+False,Outil de manutention & Transport,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outil-de-manutention-transport/
+False,Accessoires & Consommables électroportatifs,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/accessoires-consommables-electroportatifs/
+True,Outil de l'électricien,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-specialise/outil-de-lelectricien/
+True,Chariot et Diable,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outil-de-manutention-transport/chariot-et-diable/
+True,"Accessoires Outil multifonction, Lame, Abrasif, Râpe…",https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/accessoires-consommables-electroportatifs/accessoires-outil-multifonction-lame-abrasif-rape/
+True,"Accessoires Meuleuse, Brosse, Ecrou & Clé de serrage",https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/accessoires-consommables-electroportatifs/accessoires-meuleuse-brosse-ecrou-amp-cle-de-serrage/
+True,Scie cloche & Scie trépan,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/accessoires-consommables-electroportatifs/scie-cloche-scie-trepan/
+True,"Accessoires Perceuse, Brosse, Adaptateur, Mandrin …",https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/accessoires-consommables-electroportatifs/accessoires-perceuse-brosse-adaptateur-mandrin-/
+True,"Lame de scie circulaire, sauteuse & sabre",https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/accessoires-consommables-electroportatifs/lame-de-scie-circulaire-sauteuse-sabre/
+True,"Disque à tronçonner, multi usage, à ébarber, diamant…",https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/accessoires-consommables-electroportatifs/disque-a-tronconner-multi-usage-a-ebarber-diamant/
+True,"Accessoires Ponceuse, Abrasif, Cale & Brosse",https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/accessoires-consommables-electroportatifs/accessoires-ponceuse-abrasif-cale-brosse/
+True,Embout,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/accessoires-consommables-electroportatifs/embout/
+True,"Forêt métaux, béton & Mèche bois",https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/accessoires-consommables-electroportatifs/foret-metaux-beton-meche-bois/
+True,Outil du plombier,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-specialise/outil-du-plombier/
+True,Escabeau & Marche-pied,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outil-de-manutention-transport/escabeau-marche-pied/
+True,Outil du carreleur,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-specialise/outil-du-carreleur/
+True,Outil du peintre & du tapissier,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-specialise/outil-du-peintre-du-tapissier/
+True,Outil du maçon,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-specialise/outil-du-macon/
+True,Lampe à souder & Consommables,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-specialise/lampe-a-souder-consommables/
+True,"Soudure à l'arc, Mig-Mag, Accessoires & Consommables",https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-specialise/soudure-a-larc-mig-mag-accessoires-consommables/
+True,Poste à souder & Consommables,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-specialise/poste-a-souder-consommables/
+True,Fer à souder & Consommables,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-specialise/fer-a-souder-consommables/
+False,Appareil de nettoyage,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/appareil-de-nettoyage/
+False,Machine d'atelier,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/machine-datelier/
+False,Rangement d'outils,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/rangement-doutils/
+True,Nettoyeur haute pression & Consommables,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/appareil-de-nettoyage/nettoyeur-haute-pression-consommables/
+True,Perceuse à colonne,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/machine-datelier/perceuse-a-colonne/
+True,Ceinture porte-outils,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/rangement-doutils/ceinture-porte-outils/
+True,Caisse Boîte & Sac à outils,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/rangement-doutils/caisse-boite-sac-a-outils/
+True,Servante d'atelier,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/rangement-doutils/servante-datelier/
+True,Pistolet & Machine à peindre,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/machine-datelier/pistolet-machine-a-peindre/
+True,Touret à meuler,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/machine-datelier/touret-a-meuler/
+True,Palan,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/machine-datelier/palan/
+True,Groupe électrogène & Accessoires,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/machine-datelier/groupe-electrogene-accessoires/
+True,"Scie sur table, à onglet & à ruban",https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/machine-datelier/scie-sur-table-a-onglet-a-ruban/
+True,Rabot dégauchisseuse & Tronçonneuse à matériaux,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/machine-datelier/rabot-degauchisseuse-tronconneuse-a-materiaux/
+True,Compresseur & Accessoires,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/machine-datelier/compresseur-accessoires/
+True,Aspirateur & Accessoires,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/appareil-de-nettoyage/aspirateur-accessoires/
+False,Outillage à main,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-a-main/
+False,Outillage électroportatif,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-electroportatif/
+True,Colonne de cuisine,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/meuble-de-cuisine/colonne-de-cuisine/
+True,Pistolet à colle & Consommables,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-a-main/pistolet-a-colle-consommables/
+True,Perceuse à percussion filaire,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-electroportatif/perceuse-a-percussion-filaire/
+True,Décapeur thermique,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-electroportatif/decapeur-thermique/
+True,Mélangeur & Malaxeur,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-electroportatif/melangeur-malaxeur/
+True,Mini outil & Dremel®,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-electroportatif/mini-outil-dremel/
+True,Défonceuse,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-electroportatif/defonceuse/
+True,"Ponceuse, Lime électriques & Rabot",https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-electroportatif/ponceuse-lime-electriques-rabot/
+True,"Visseuse, Visseuse à plâtre & à choc",https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-electroportatif/visseuse-visseuse-a-platre-a-choc/
+True,Outil multifonction,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-electroportatif/outil-multifonction/
+True,"Marteau piqueur, perforateur, burineur & brise-béton",https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-electroportatif/marteau-piqueur-perforateur-burineur-brise-beton/
+True,"Meuleuse, Disqueuse & Rainureuse",https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-electroportatif/meuleuse-disqueuse-rainureuse/
+True,Batterie et Chargeur,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-electroportatif/batterie-et-chargeur/
+True,"Scie électrique, circulaire, sauteuse, sabre & plongeante",https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-electroportatif/scie-electrique-circulaire-sauteuse-sabre-plongeante/
+True,Composez votre pack d’outillage électroportatif,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-electroportatif/composez-votre-pack-doutillage-electroportatif/
+True,"Agrafeuse, Cloueur & Consommables",https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-a-main/agrafeuse-cloueur-consommables/
+True,"Ciseau à bois, Râpe, Lime & Rabot",https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-a-main/ciseau-a-bois-rape-lime-rabot/
+True,Perceuse-visseuse & Perceuse à percussion sans fil,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-electroportatif/perceuse-visseuse-perceuse-a-percussion-sans-fil/
+True,"Télémètre, Mètre, Mesure, Niveau, Détecteur…",https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-a-main/telemetre-metre-mesure-niveau-detecteur/
+True,"Marteau, Masse & Maillet",https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-a-main/marteau-masse-maillet/
+True,Outil de traçage & Marquage,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-a-main/outil-de-tracage-marquage/
+True,"Cutter, Couteau, Ciseaux, Grattoir & Lames",https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-a-main/cutter-couteau-ciseaux-grattoir-lames/
+True,Scie manuelle & Consommables,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-a-main/scie-manuelle-consommables/
+True,Serre-joint & Pince de serrage,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-a-main/serre-joint-pince-de-serrage/
+True,"Clé plate, mixte, à molette, à pipe & mâle",https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-a-main/cle-plate-mixte-a-molette-a-pipe-male/
+True,"Pince coupante, multiprise, à riveter… & Tenaille",https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-a-main/pince-coupante-multiprise-a-riveter-tenaille/
+True,Coffret à douilles & Clé à cliquet,https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-a-main/coffret-a-douilles-cle-a-cliquet/
+True,"Tournevis, Porte-embout & Embout",https://www.bricodepot.fr/catalogue/outillage-quincaillerie/outillage/outillage-a-main/tournevis-porte-embout-embout/
+True,Meuble d'angle cuisine,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/meuble-de-cuisine/meuble-dangle-cuisine/
+True,Meuble sous évier,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/meuble-de-cuisine/meuble-sous-evier/
+True,Cuisinette,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/meuble-de-cuisine/cuisinette/
+True,Cuisine non équipée,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/meuble-de-cuisine/cuisine-non-equipee/
+True,Meuble haut de cuisine,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/meuble-de-cuisine/meuble-haut-de-cuisine/
+True,Cuisine à petit prix,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/meuble-de-cuisine/cuisine-a-petit-prix/
+True,Meuble bas de cuisine,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/meuble-de-cuisine/meuble-bas-de-cuisine/
+True,Meuble de cuisine complet,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/meuble-de-cuisine/meuble-de-cuisine-complet/
+True,Façade & Finition,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/meuble-de-cuisine/facade-finition/
+False,Modèle de cuisine,https://www.bricodepot.fr/catalogue/amenagement-despaces/cuisine/meuble-de-cuisine/modele-de-cuisine/
+False,Electricit\u00E9 - Eclairage & Domotique,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/
+False,Plomberie,https://www.bricodepot.fr/catalogue/construction-renovation/plomberie/
+False,Décodeur - Antenne - Parabole & Connectique,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/decodeur-antenne-parabole-connectique/
+False,Outil du plombier & Accessoires,https://www.bricodepot.fr/catalogue/construction-renovation/plomberie/outil-du-plombier-accessoires/
+True,Décodeur TNT & satellite,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/decodeur-antenne-parabole-connectique/decodeur-tnt-satellite/
+False,Carrelage - Stratifi\u00E9 & Parquet,https://www.bricodepot.fr/catalogue/construction-renovation/carrelage-stratifie-parquet/
+True,Détartrant - Déboucheur…,https://www.bricodepot.fr/catalogue/construction-renovation/plomberie/outil-du-plombier-accessoires/detartrant-deboucheur/
+True,Outil du plombier,https://www.bricodepot.fr/catalogue/construction-renovation/plomberie/outil-du-plombier-accessoires/outil-du-plombier/
+True,Outil du carreleur,https://www.bricodepot.fr/catalogue/construction-renovation/carrelage-stratifie-parquet/outil-du-carreleur/
+False,"Produit de pose, de finition & d'entretien",https://www.bricodepot.fr/catalogue/construction-renovation/carrelage-stratifie-parquet/produit-de-pose-de-finition-dentretien/
+False,Stratifié - Parquet & Sol vinyle PVC,https://www.bricodepot.fr/catalogue/construction-renovation/carrelage-stratifie-parquet/stratifie-parquet-sol-vinyle-pvc/
+False,Carrelage & Galet,https://www.bricodepot.fr/catalogue/construction-renovation/carrelage-stratifie-parquet/carrelage-galet/
+True,Vitrificateur sol,https://www.bricodepot.fr/catalogue/construction-renovation/carrelage-stratifie-parquet/produit-de-pose-de-finition-dentretien/vitrificateur-sol/
+True,Lino,https://www.bricodepot.fr/catalogue/construction-renovation/carrelage-stratifie-parquet/stratifie-parquet-sol-vinyle-pvc/lino/
+True,Galet,https://www.bricodepot.fr/catalogue/construction-renovation/carrelage-stratifie-parquet/carrelage-galet/galet/
+True,Listel,https://www.bricodepot.fr/catalogue/construction-renovation/carrelage-stratifie-parquet/carrelage-galet/listel/
+True,Plaquette de parement,https://www.bricodepot.fr/catalogue/construction-renovation/carrelage-stratifie-parquet/carrelage-galet/plaquette-de-parement/
+True,Mosaïque,https://www.bricodepot.fr/catalogue/construction-renovation/carrelage-stratifie-parquet/carrelage-galet/mosaique/
+True,Carrelage de sol extérieur,https://www.bricodepot.fr/catalogue/construction-renovation/carrelage-stratifie-parquet/carrelage-galet/carrelage-de-sol-exterieur/
+True,Faïence - Carrelage mural,https://www.bricodepot.fr/catalogue/construction-renovation/carrelage-stratifie-parquet/carrelage-galet/faience-carrelage-mural/
+True,Carrelage de sol intérieur,https://www.bricodepot.fr/catalogue/construction-renovation/carrelage-stratifie-parquet/carrelage-galet/carrelage-de-sol-interieur/
+True,Sol stratifié,https://www.bricodepot.fr/catalogue/construction-renovation/carrelage-stratifie-parquet/stratifie-parquet-sol-vinyle-pvc/sol-stratifie/
+True,Dalle & Lame vinyles PVC,https://www.bricodepot.fr/catalogue/construction-renovation/carrelage-stratifie-parquet/stratifie-parquet-sol-vinyle-pvc/dalle-lame-vinyles-pvc/
+True,Barre de seuil,https://www.bricodepot.fr/catalogue/construction-renovation/carrelage-stratifie-parquet/produit-de-pose-de-finition-dentretien/barre-de-seuil/
+True,Plinthe bois,https://www.bricodepot.fr/catalogue/construction-renovation/carrelage-stratifie-parquet/produit-de-pose-de-finition-dentretien/plinthe-bois/
+True,Sous-couche sol & Accessoires de pose,https://www.bricodepot.fr/catalogue/construction-renovation/carrelage-stratifie-parquet/produit-de-pose-de-finition-dentretien/sous-couche-sol-amp-accessoires-de-pose/
+True,Entretien du carrelage,https://www.bricodepot.fr/catalogue/construction-renovation/carrelage-stratifie-parquet/produit-de-pose-de-finition-dentretien/entretien-du-carrelage/
+True,Profilé de finition,https://www.bricodepot.fr/catalogue/construction-renovation/carrelage-stratifie-parquet/produit-de-pose-de-finition-dentretien/profile-de-finition/
+True,Ragréage et préparation du carrelage,https://www.bricodepot.fr/catalogue/construction-renovation/carrelage-stratifie-parquet/produit-de-pose-de-finition-dentretien/ragreage-et-preparation-du-carrelage/
+True,Croisillons carrelage,https://www.bricodepot.fr/catalogue/construction-renovation/carrelage-stratifie-parquet/produit-de-pose-de-finition-dentretien/croisillons-carrelage/
+True,Plinthe carrelage,https://www.bricodepot.fr/catalogue/construction-renovation/carrelage-stratifie-parquet/produit-de-pose-de-finition-dentretien/plinthe-carrelage/
+True,Joint carrelage,https://www.bricodepot.fr/catalogue/construction-renovation/carrelage-stratifie-parquet/produit-de-pose-de-finition-dentretien/joint-carrelage/
+True,Etanchéité des raccords,https://www.bricodepot.fr/catalogue/construction-renovation/plomberie/outil-du-plombier-accessoires/etancheite-des-raccords/
+True,Antenne TV & Parabole,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/decodeur-antenne-parabole-connectique/antenne-tv-parabole/
+True,Colle carrelage,https://www.bricodepot.fr/catalogue/construction-renovation/carrelage-stratifie-parquet/produit-de-pose-de-finition-dentretien/colle-carrelage/
+True,Connectique audio & vidéo,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/decodeur-antenne-parabole-connectique/connectique-audio-video/
+True,Support TV,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/decodeur-antenne-parabole-connectique/support-tv/
+False,Distribution de l'eau,https://www.bricodepot.fr/catalogue/construction-renovation/plomberie/distribution-de-leau/
+True,Mécanisme & Robinetterie WC,https://www.bricodepot.fr/catalogue/construction-renovation/plomberie/mecanisme-robinetterie-wc/
+False,Évacuation de l'eau,https://www.bricodepot.fr/catalogue/construction-renovation/plomberie/evacuation-de-leau/
+True,Compteur,https://www.bricodepot.fr/catalogue/construction-renovation/plomberie/distribution-de-leau/compteur/
+True,Vanne & Robinet d'arrêt,https://www.bricodepot.fr/catalogue/construction-renovation/plomberie/distribution-de-leau/vanne-robinet-darret/
+True,Tube & raccords PVC,https://www.bricodepot.fr/catalogue/construction-renovation/plomberie/evacuation-de-leau/tube-raccords-pvc/
+True,Vidage - Bonde & Siphon,https://www.bricodepot.fr/catalogue/construction-renovation/plomberie/evacuation-de-leau/vidage-bonde-siphon/
+True,Robinetterie,https://www.bricodepot.fr/catalogue/construction-renovation/plomberie/distribution-de-leau/robinetterie/
+False,Alimentation en eau,https://www.bricodepot.fr/catalogue/construction-renovation/plomberie/alimentation-en-eau/
+True,Pile & Chargeur,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/pile-chargeur/
+False,Production d'eau chaude & Traitement de l'eau,https://www.bricodepot.fr/catalogue/construction-renovation/plomberie/production-deau-chaude-traitement-de-leau/
+True,Isolation des tubes,https://www.bricodepot.fr/catalogue/construction-renovation/plomberie/alimentation-en-eau/isolation-des-tubes/
+True,Tube & Raccord Polyéthylène,https://www.bricodepot.fr/catalogue/construction-renovation/plomberie/alimentation-en-eau/tube-raccord-polyethylene/
+True,Adoucisseur & Filtre,https://www.bricodepot.fr/catalogue/construction-renovation/plomberie/production-deau-chaude-traitement-de-leau/adoucisseur-filtre/
+True,Accessoires de chauffe-eau,https://www.bricodepot.fr/catalogue/construction-renovation/plomberie/production-deau-chaude-traitement-de-leau/accessoires-de-chauffe-eau/
+True,Chauffe-eau gaz,https://www.bricodepot.fr/catalogue/construction-renovation/plomberie/production-deau-chaude-traitement-de-leau/chauffe-eau-gaz/
+True,Chauffe-eau électrique,https://www.bricodepot.fr/catalogue/construction-renovation/plomberie/production-deau-chaude-traitement-de-leau/chauffe-eau-electrique/
+True,Accessoires de fixation,https://www.bricodepot.fr/catalogue/construction-renovation/plomberie/alimentation-en-eau/accessoires-de-fixation/
+True,Flexible d'alimentation,https://www.bricodepot.fr/catalogue/construction-renovation/plomberie/alimentation-en-eau/flexible-dalimentation/
+True,Raccord laiton,https://www.bricodepot.fr/catalogue/construction-renovation/plomberie/alimentation-en-eau/raccord-laiton/
+True,Tube & Raccord cuivre,https://www.bricodepot.fr/catalogue/construction-renovation/plomberie/alimentation-en-eau/tube-raccord-cuivre/
+True,Tube & Raccord multicouche,https://www.bricodepot.fr/catalogue/construction-renovation/plomberie/alimentation-en-eau/tube-raccord-multicouche/
+True,Tube & Raccord PER,https://www.bricodepot.fr/catalogue/construction-renovation/plomberie/alimentation-en-eau/tube-raccord-per/
+True,Outil de l'électricien,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/outil-de-lelectricien/
+False,Eclairage technique & de chantier,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/eclairage-technique-de-chantier/
+False,Eclairage intérieur,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/eclairage-interieur/
+False,Ampoule,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/ampoule/
+True,Projecteur de chantier et lampe torche,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/eclairage-technique-de-chantier/projecteur-de-chantier-et-lampe-torche/
+True,Ruban LED,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/eclairage-interieur/ruban-led/
+True,Douille & Transformateur,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/ampoule/douille-transformateur/
+True,Tube fluorescent & LED,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/ampoule/tube-fluorescent-led/
+True,Ampoule LED et halogène,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/ampoule/ampoule-led-et-halogene/
+True,Spot LED et halogène,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/ampoule/spot-led-et-halogene/
+True,Crayon & Capsule LED et halogène,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/ampoule/crayon-capsule-led-et-halogene/
+True,Spot encastrable & Spot sur support,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/eclairage-interieur/spot-encastrable-spot-sur-support/
+True,Suspension et applique murale,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/eclairage-interieur/suspension-et-applique-murale/
+True,Plafonnier,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/eclairage-interieur/plafonnier/
+True,"Eclairage du garage, de l'atelier et de la cave",https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/eclairage-technique-de-chantier/eclairage-du-garage-de-latelier-et-de-la-cave/
+True,Eclairage extérieur,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/eclairage-exterieur/
+False,Energie électrique,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/energie-electrique/
+False,Energie solaire,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/energie-solaire/
+False,Domotique,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/domotique/
+True,Vélo électrique,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/energie-electrique/velo-electrique/
+True,Eclairage solaire,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/energie-solaire/eclairage-solaire/
+True,Motorisation portail & volet,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/domotique/motorisation-portail-volet/
+True,Vidéophone & Carillon,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/domotique/videophone-carillon/
+True,Alarme - Détecteur & Sécurité de la maison,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/domotique/alarme-detecteur-securite-de-la-maison/
+True,Panneau solaire,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/energie-solaire/panneau-solaire/
+True,Borne de recharge électrique,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/energie-electrique/borne-de-recharge-electrique/
+True,Moulure - Plinthe & Goulotte,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/moulure-plinthe-goulotte/
+False,Prise & Interrupteur,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/prise-interrupteur/
+False,Tableau - Protection électrique & Gaine technique de logement,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/tableau-protection-electrique-gaine-technique-de-logement/
+True,Programmateur & Prise télécommandée,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/prise-interrupteur/programmateur-prise-telecommandee/
+False,Câble - Fil - Gaine - Tube & Accessoires,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/cable-fil-gaine-tube-accessoires/
+True,Gaine technique de logement,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/tableau-protection-electrique-gaine-technique-de-logement/gaine-technique-de-logement/
+True,Multimètre & testeur,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/cable-fil-gaine-tube-accessoires/multimetre-testeur/
+True,Coffret de communication & Accessoires,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/tableau-protection-electrique-gaine-technique-de-logement/coffret-de-communication-accessoires/
+True,Fiche électrique mâle & femelle,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/cable-fil-gaine-tube-accessoires/fiche-electrique-male-femelle/
+True,Tube IRL en PVC & Raccord,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/cable-fil-gaine-tube-accessoires/tube-irl-en-pvc-raccord/
+True,Accessoires Gaine,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/cable-fil-gaine-tube-accessoires/accessoires-gaine/
+True,Accessoires câble,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/cable-fil-gaine-tube-accessoires/accessoires-cable/
+True,Enrouleur & Rallonge électrique,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/cable-fil-gaine-tube-accessoires/enrouleur-rallonge-electrique/
+True,Gaine ICTA nue & préfilée,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/cable-fil-gaine-tube-accessoires/gaine-icta-nue-prefilee/
+True,Câble d'installation & Fil électrique,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/cable-fil-gaine-tube-accessoires/cable-dinstallation-fil-electrique/
+True,Tableau électrique,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/tableau-protection-electrique-gaine-technique-de-logement/tableau-electrique/
+True,Disjoncteur - Interrupteur différentiel & Fusible,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/tableau-protection-electrique-gaine-technique-de-logement/disjoncteur-interrupteur-differentiel-fusible/
+True,Boîte de dérivation,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/prise-interrupteur/boite-de-derivation/
+True,Prise & Interrupteur en saillie,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/prise-interrupteur/prise-interrupteur-en-saillie/
+True,Prise & Interrupteur étanche,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/prise-interrupteur/prise-interrupteur-etanche/
+True,Boîte d'encastrement,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/prise-interrupteur/boite-dencastrement/
+True,Adaptateur - Multiprise & Prise parafoudre,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/prise-interrupteur/adaptateur-multiprise-prise-parafoudre/
+True,Prise & Interrupteur encastrable prêt-à-poser,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/prise-interrupteur/prise-interrupteur-encastrable-pret-a-poser/
+True,Prise & Interrupteur encastrable à composer,https://www.bricodepot.fr/catalogue/construction-renovation/electricite-eclairage-domotique/prise-interrupteur/prise-interrupteur-encastrable-a-composer/
+False,Fen\u00EAtre - Porte & Escalier,https://www.bricodepot.fr/catalogue/construction-renovation/fenetre-porte-escalier/
+False,Chauffage - Clim & Ventilation,https://www.bricodepot.fr/catalogue/construction-renovation/chauffage-clim-ventilation/
+False,Mat\u00E9riau & Gros oeuvre,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/
+True,Escalier & Balustrade,https://www.bricodepot.fr/catalogue/construction-renovation/fenetre-porte-escalier/escalier-balustrade/
+True,Ventilateur,https://www.bricodepot.fr/catalogue/construction-renovation/chauffage-clim-ventilation/ventilateur/
+False,Matériel de chantier,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/materiel-de-chantier/
+False,Evacuation des eaux usées,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/evacuation-des-eaux-usees/
+False,Evacuation des eaux de pluie,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/evacuation-des-eaux-de-pluie/
+True,Signalisation de chantier,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/materiel-de-chantier/signalisation-de-chantier/
+True,"Regard, siphon et grille",https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/evacuation-des-eaux-de-pluie/regard-siphon-et-grille/
+True,Tout à l'égout,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/evacuation-des-eaux-usees/tout-a-legout/
+True,Caniveau,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/evacuation-des-eaux-de-pluie/caniveau/
+True,Accessoires gouttière,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/evacuation-des-eaux-de-pluie/accessoires-gouttiere/
+True,Gouttières zinc,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/evacuation-des-eaux-de-pluie/gouttieres-zinc/
+True,Récupérateur d'eau,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/evacuation-des-eaux-de-pluie/recuperateur-deau/
+True,Gouttière PVC,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/evacuation-des-eaux-de-pluie/gouttiere-pvc/
+True,Regard,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/evacuation-des-eaux-usees/regard/
+True,Fosse septique,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/evacuation-des-eaux-usees/fosse-septique/
+True,Épandage,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/evacuation-des-eaux-usees/epandage/
+True,Tréteau & Etai,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/materiel-de-chantier/treteau-etai/
+True,Remorque,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/materiel-de-chantier/remorque/
+True,Brouette,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/materiel-de-chantier/brouette/
+True,Groupe électrogène & Accessoires,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/materiel-de-chantier/groupe-electrogene-accessoires/
+True,Compresseur & Accessoires,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/materiel-de-chantier/compresseur-accessoires/
+True,Echelles,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/materiel-de-chantier/echelles/
+True,Escabeau,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/materiel-de-chantier/escabeau/
+True,Echafaudage,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/materiel-de-chantier/echafaudage/
+False,Couverture et toiture,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/couverture-et-toiture/
+True,Bétonnière,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/materiel-de-chantier/betonniere/
+False,Façade et bardage,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/facade-et-bardage/
+True,Outillage du couvreur,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/couverture-et-toiture/outillage-du-couvreur/
+True,Isolation de la toiture,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/couverture-et-toiture/isolation-de-la-toiture/
+True,Etanchéité mur extérieur,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/facade-et-bardage/etancheite-mur-exterieur/
+True,Mastic extérieur,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/facade-et-bardage/mastic-exterieur/
+True,Crépi façade,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/facade-et-bardage/crepi-facade/
+True,Peinture mur extérieur,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/facade-et-bardage/peinture-mur-exterieur/
+True,Enduit de façade,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/facade-et-bardage/enduit-de-facade/
+True,Accessoires de bardage,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/facade-et-bardage/accessoires-de-bardage/
+True,Bardage,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/facade-et-bardage/bardage/
+True,"Ecran sous-toiture, pare-vapeur, bande étanchéité,…",https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/couverture-et-toiture/ecran-sous-toiture-pare-vapeur-bande-etancheite/
+True,Fixation,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/couverture-et-toiture/fixation/
+True,Accessoires de couverture,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/couverture-et-toiture/accessoires-de-couverture/
+True,Tuile et ardoise,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/couverture-et-toiture/tuile-et-ardoise/
+True,Plaque et bardeau bitumé,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/couverture-et-toiture/plaque-et-bardeau-bitume/
+True,Plaque toiture PVC,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/couverture-et-toiture/plaque-toiture-pvc/
+True,Plaque toiture polycarbonate,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/couverture-et-toiture/plaque-toiture-polycarbonate/
+True,Plaque toiture acier,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/couverture-et-toiture/plaque-toiture-acier/
+False,Etanchéité,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/etancheite/
+False,Bois de charpente & Ossature bois,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/bois-de-charpente-ossature-bois/
+False,Isolation de la maison,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/isolation-de-la-maison/
+True,Mousse expansive,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/etancheite/mousse-expansive/
+True,Outillage du charpentier,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/bois-de-charpente-ossature-bois/outillage-du-charpentier/
+True,Accessoires isolation,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/isolation-de-la-maison/accessoires-isolation/
+True,Mousse polyuréthane,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/isolation-de-la-maison/mousse-polyurethane/
+True,Isolant divers,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/isolation-de-la-maison/isolant-divers/
+True,Isolation des ouvertures,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/isolation-de-la-maison/isolation-des-ouvertures/
+True,Isolant phonique,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/isolation-de-la-maison/isolant-phonique/
+True,Isolant polystyrène,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/isolation-de-la-maison/isolant-polystyrene/
+True,Isolant polyuréthane,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/isolation-de-la-maison/isolant-polyurethane/
+True,Isolant mince,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/isolation-de-la-maison/isolant-mince/
+True,Ouate de cellulose,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/isolation-de-la-maison/ouate-de-cellulose/
+True,Fibre de bois,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/isolation-de-la-maison/fibre-de-bois/
+True,Laine de roche,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/isolation-de-la-maison/laine-de-roche/
+True,Laine de verre,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/isolation-de-la-maison/laine-de-verre/
+True,Connecteurs de bâtiment,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/bois-de-charpente-ossature-bois/connecteurs-de-batiment/
+True,Solivettes,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/bois-de-charpente-ossature-bois/solivettes/
+True,Traitement du bois,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/bois-de-charpente-ossature-bois/traitement-du-bois/
+True,Madriers,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/bois-de-charpente-ossature-bois/madriers/
+True,Bastaings,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/bois-de-charpente-ossature-bois/bastaings/
+True,"Latte, Liteaux",https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/bois-de-charpente-ossature-bois/latte-liteaux/
+True,Chevrons,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/bois-de-charpente-ossature-bois/chevrons/
+True,Planches,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/bois-de-charpente-ossature-bois/planches/
+True,Voliges,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/bois-de-charpente-ossature-bois/voliges/
+True,Grillage avertisseur et gaine de protection,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/etancheite/grillage-avertisseur-et-gaine-de-protection/
+True,Mastic d'étanchéité,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/etancheite/mastic-detancheite/
+True,Anti-dépôt vert,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/etancheite/anti-depot-vert/
+True,Etanchéité des fondations,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/etancheite/etancheite-des-fondations/
+True,Etanchéité mur,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/etancheite/etancheite-mur/
+True,Etanchéité toiture,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/etancheite/etancheite-toiture/
+True,Etanchéité façade,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/etancheite/etancheite-facade/
+True,Etanchéité terrasse,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/etancheite/etancheite-terrasse/
+False,Cloison,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/cloison/
+False,Panneau bois et dalle de plancher,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/panneau-bois-et-dalle-de-plancher/
+False,"Ciment, mortier et béton",https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/ciment-mortier-et-beton/
+True,Outillage du menuisier,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/panneau-bois-et-dalle-de-plancher/outillage-du-menuisier/
+True,Chaux,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/ciment-mortier-et-beton/chaux/
+True,Cloison amovible modulaire,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/cloison/cloison-amovible-modulaire/
+True,Planches de coffrage,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/ciment-mortier-et-beton/planches-de-coffrage/
+True,Ragréage,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/ciment-mortier-et-beton/ragreage/
+True,Adjuvant,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/ciment-mortier-et-beton/adjuvant/
+True,Ciment,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/ciment-mortier-et-beton/ciment/
+True,Béton,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/ciment-mortier-et-beton/beton/
+True,Mortier,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/ciment-mortier-et-beton/mortier/
+True,"Sable, gravier et mélange béton",https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/ciment-mortier-et-beton/sable-gravier-et-melange-beton/
+True,Colle bois et joint de finition,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/panneau-bois-et-dalle-de-plancher/colle-bois-et-joint-de-finition/
+True,Tablette bois,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/panneau-bois-et-dalle-de-plancher/tablette-bois/
+True,Moulures,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/panneau-bois-et-dalle-de-plancher/moulures/
+True,Planche de bois,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/panneau-bois-et-dalle-de-plancher/planche-de-bois/
+True,Tasseau bois,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/panneau-bois-et-dalle-de-plancher/tasseau-bois/
+True,Plancher bois,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/panneau-bois-et-dalle-de-plancher/plancher-bois/
+True,Dalle plancher bois,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/panneau-bois-et-dalle-de-plancher/dalle-plancher-bois/
+True,Panneau bois,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/panneau-bois-et-dalle-de-plancher/panneau-bois/
+True,Isolation des murs et cloisons,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/cloison/isolation-des-murs-et-cloisons/
+True,Outillage du plaquiste,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/cloison/outillage-du-plaquiste/
+True,Verre synthétique,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/cloison/verre-synthetique/
+True,Mortier adhésif,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/cloison/mortier-adhesif/
+True,Enduit intérieur,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/cloison/enduit-interieur/
+True,Brique de verre,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/cloison/brique-de-verre/
+True,Panneau d'agencement,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/cloison/panneau-dagencement/
+True,Trappe de visite,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/cloison/trappe-de-visite/
+True,Accessoire de cloisonnement,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/cloison/accessoire-de-cloisonnement/
+True,Ossature métallique,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/cloison/ossature-metallique/
+True,Plâtre,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/cloison/platre/
+True,Carreaux de plâtre,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/cloison/carreaux-de-platre/
+True,Doublage plaque de plâtre,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/cloison/doublage-plaque-de-platre/
+True,Plaque de plâtre,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/cloison/plaque-de-platre/
+False,Matériaux de construction,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/materiaux-de-construction/
+True,Climatisation & Pompe à chaleur réversible,https://www.bricodepot.fr/catalogue/construction-renovation/chauffage-clim-ventilation/climatisation-pompe-a-chaleur-reversible/
+False,Isolation,https://www.bricodepot.fr/catalogue/construction-renovation/chauffage-clim-ventilation/isolation/
+True,Outillage du maçon,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/materiaux-de-construction/outillage-du-macon/
+True,Armature & Ferraillage,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/materiaux-de-construction/armature-ferraillage/
+True,Isolation porte et fenêtre,https://www.bricodepot.fr/catalogue/construction-renovation/chauffage-clim-ventilation/isolation/isolation-porte-et-fenetre/
+True,Isolation Sol & Plancher,https://www.bricodepot.fr/catalogue/construction-renovation/chauffage-clim-ventilation/isolation/isolation-sol-plancher/
+True,Isolation Mur & Cloison,https://www.bricodepot.fr/catalogue/construction-renovation/chauffage-clim-ventilation/isolation/isolation-mur-cloison/
+True,Isolation des combles perdus,https://www.bricodepot.fr/catalogue/construction-renovation/chauffage-clim-ventilation/isolation/isolation-des-combles-perdus/
+True,Isolation des combles aménageables,https://www.bricodepot.fr/catalogue/construction-renovation/chauffage-clim-ventilation/isolation/isolation-des-combles-amenageables/
+True,Brique,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/materiaux-de-construction/brique/
+True,Béton cellulaire,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/materiaux-de-construction/beton-cellulaire/
+True,Parpaing,https://www.bricodepot.fr/catalogue/construction-renovation/materiau-gros-oeuvre/materiaux-de-construction/parpaing/
+True,Raccord & Tuyau de gaz,https://www.bricodepot.fr/catalogue/construction-renovation/chauffage-clim-ventilation/raccord-tuyau-de-gaz/
+False,Chaudière,https://www.bricodepot.fr/catalogue/construction-renovation/chauffage-clim-ventilation/chaudiere/
+True,Chauffage d'appoint,https://www.bricodepot.fr/catalogue/construction-renovation/chauffage-clim-ventilation/chauffage-dappoint/
+False,Traitement de l'air,https://www.bricodepot.fr/catalogue/construction-renovation/chauffage-clim-ventilation/traitement-de-lair/
+True,Accessoires Chaudière & Brûleur,https://www.bricodepot.fr/catalogue/construction-renovation/chauffage-clim-ventilation/chaudiere/accessoires-chaudiere-bruleur/
+True,Accessoires de VMC,https://www.bricodepot.fr/catalogue/construction-renovation/chauffage-clim-ventilation/traitement-de-lair/accessoires-de-vmc/
+True,Sèche-serviette à eau chaude,https://www.bricodepot.fr/catalogue/construction-renovation/chauffage-clim-ventilation/seche-serviette-a-eau-chaude/
+True,Aérateur & Déshumidificateur,https://www.bricodepot.fr/catalogue/construction-renovation/chauffage-clim-ventilation/traitement-de-lair/aerateur-deshumidificateur/
+True,Sèche-serviette électrique,https://www.bricodepot.fr/catalogue/construction-renovation/chauffage-clim-ventilation/seche-serviette-electrique/
+True,VMC,https://www.bricodepot.fr/catalogue/construction-renovation/chauffage-clim-ventilation/traitement-de-lair/vmc/
+False,Chauffage central,https://www.bricodepot.fr/catalogue/construction-renovation/chauffage-clim-ventilation/chauffage-central/
+False,Chauffage bois - Granulé & Pellet,https://www.bricodepot.fr/catalogue/construction-renovation/chauffage-clim-ventilation/chauffage-bois-granule-pellet/
+True,Régulation et accessoires radiateurs,https://www.bricodepot.fr/catalogue/construction-renovation/chauffage-clim-ventilation/chauffage-central/regulation-et-accessoires-radiateurs/
+False,Chauffage électrique,https://www.bricodepot.fr/catalogue/construction-renovation/chauffage-clim-ventilation/chauffage-electrique/
+True,Poêle à bois,https://www.bricodepot.fr/catalogue/construction-renovation/chauffage-clim-ventilation/chauffage-bois-granule-pellet/poele-a-bois/
+True,Allume-feu - Pétrole,https://www.bricodepot.fr/catalogue/construction-renovation/chauffage-clim-ventilation/chauffage-bois-granule-pellet/allume-feu-petrole/
+True,Régulation - kit thermostatique & Accessoires,https://www.bricodepot.fr/catalogue/construction-renovation/chauffage-clim-ventilation/chauffage-electrique/regulation-kit-thermostatique-accessoires/
+True,Radiateur électrique à double cœur de chauffe,https://www.bricodepot.fr/catalogue/construction-renovation/chauffage-clim-ventilation/chauffage-electrique/radiateur-electrique-a-double-cur-de-chauffe/
+True,Convecteur & Panneau rayonnant,https://www.bricodepot.fr/catalogue/construction-renovation/chauffage-clim-ventilation/chauffage-electrique/convecteur-panneau-rayonnant/
+True,Radiateur électrique à inertie fluide,https://www.bricodepot.fr/catalogue/construction-renovation/chauffage-clim-ventilation/chauffage-electrique/radiateur-electrique-a-inertie-fluide/
+True,Radiateur électrique à inertie sèche,https://www.bricodepot.fr/catalogue/construction-renovation/chauffage-clim-ventilation/chauffage-electrique/radiateur-electrique-a-inertie-seche/
+True,Foyer - Insert - Habillage de foyer,https://www.bricodepot.fr/catalogue/construction-renovation/chauffage-clim-ventilation/chauffage-bois-granule-pellet/foyer-insert-habillage-de-foyer/
+True,Accessoires poêle et cheminée,https://www.bricodepot.fr/catalogue/construction-renovation/chauffage-clim-ventilation/chauffage-bois-granule-pellet/accessoires-poele-et-cheminee/
+True,Distribution d'air chaud,https://www.bricodepot.fr/catalogue/construction-renovation/chauffage-clim-ventilation/chauffage-bois-granule-pellet/distribution-dair-chaud/
+True,Fumisterie : Tubage & Raccord,https://www.bricodepot.fr/catalogue/construction-renovation/chauffage-clim-ventilation/chauffage-bois-granule-pellet/fumisterie-tubage-raccord/
+True,Bois de chauffage,https://www.bricodepot.fr/catalogue/construction-renovation/chauffage-clim-ventilation/chauffage-bois-granule-pellet/bois-de-chauffage/
+True,Granulés de bois,https://www.bricodepot.fr/catalogue/construction-renovation/chauffage-clim-ventilation/chauffage-bois-granule-pellet/granules-de-bois/
+True,Poêle à granulés,https://www.bricodepot.fr/catalogue/construction-renovation/chauffage-clim-ventilation/chauffage-bois-granule-pellet/poele-a-granules/
+False,Poignée & Accessoires,https://www.bricodepot.fr/catalogue/construction-renovation/fenetre-porte-escalier/poignee-accessoires/
+True,Radiateur Chauffage central & eau chaude,https://www.bricodepot.fr/catalogue/construction-renovation/chauffage-clim-ventilation/chauffage-central/radiateur-chauffage-central-eau-chaude/
+False,Volet & Store,https://www.bricodepot.fr/catalogue/construction-renovation/fenetre-porte-escalier/volet-store/
+True,Cloison amovible modulaire,https://www.bricodepot.fr/catalogue/construction-renovation/fenetre-porte-escalier/cloison-amovible-modulaire/
+True,Accessoires & Quincaillerie,https://www.bricodepot.fr/catalogue/construction-renovation/fenetre-porte-escalier/poignee-accessoires/accessoires-quincaillerie/
+True,Store,https://www.bricodepot.fr/catalogue/construction-renovation/fenetre-porte-escalier/volet-store/store/
+True,Volet,https://www.bricodepot.fr/catalogue/construction-renovation/fenetre-porte-escalier/volet-store/volet/
+True,Store d'intérieur,https://www.bricodepot.fr/catalogue/construction-renovation/fenetre-porte-escalier/volet-store/store-dinterieur/
+True,Poignée de fenêtre,https://www.bricodepot.fr/catalogue/construction-renovation/fenetre-porte-escalier/poignee-accessoires/poignee-de-fenetre/
+True,Poignée de porte intérieure,https://www.bricodepot.fr/catalogue/construction-renovation/fenetre-porte-escalier/poignee-accessoires/poignee-de-porte-interieure/
+False,Porte d'entrée - intérieure & garage,https://www.bricodepot.fr/catalogue/construction-renovation/fenetre-porte-escalier/porte-dentree-interieure-garage/
+True,Poignée de porte d’entrée,https://www.bricodepot.fr/catalogue/construction-renovation/fenetre-porte-escalier/poignee-accessoires/poignee-de-porte-dentree/
+False,Verrière intérieur atelier,https://www.bricodepot.fr/catalogue/construction-renovation/fenetre-porte-escalier/verriere-interieur-atelier/
+False,Accessoires fenêtres,https://www.bricodepot.fr/catalogue/construction-renovation/fenetre-porte-escalier/accessoires-fenetres/
+True,Marquise,https://www.bricodepot.fr/catalogue/construction-renovation/fenetre-porte-escalier/porte-dentree-interieure-garage/marquise/
+True,Portes verrière,https://www.bricodepot.fr/catalogue/construction-renovation/fenetre-porte-escalier/verriere-interieur-atelier/portes-verriere/
+True,Moustiquaires fenêtre,https://www.bricodepot.fr/catalogue/construction-renovation/fenetre-porte-escalier/accessoires-fenetres/moustiquaires-fenetre/
+True,Films occultants pour fenêtre,https://www.bricodepot.fr/catalogue/construction-renovation/fenetre-porte-escalier/accessoires-fenetres/films-occultants-pour-fenetre/
+True,Films isolants pour fenêtre,https://www.bricodepot.fr/catalogue/construction-renovation/fenetre-porte-escalier/accessoires-fenetres/films-isolants-pour-fenetre/
+True,Fixation fenêtre,https://www.bricodepot.fr/catalogue/construction-renovation/fenetre-porte-escalier/accessoires-fenetres/fixation-fenetre/
+True,Habillage fenêtre,https://www.bricodepot.fr/catalogue/construction-renovation/fenetre-porte-escalier/accessoires-fenetres/habillage-fenetre/
+True,Poignée de fenêtre,https://www.bricodepot.fr/catalogue/construction-renovation/fenetre-porte-escalier/accessoires-fenetres/poignee-de-fenetre/
+True,Elargisseurs et tapées d'isolation fenêtre,https://www.bricodepot.fr/catalogue/construction-renovation/fenetre-porte-escalier/accessoires-fenetres/elargisseurs-et-tapees-disolation-fenetre/
+True,Verrière industrielle,https://www.bricodepot.fr/catalogue/construction-renovation/fenetre-porte-escalier/verriere-interieur-atelier/verriere-industrielle/
+True,Porte de garage,https://www.bricodepot.fr/catalogue/construction-renovation/fenetre-porte-escalier/porte-dentree-interieure-garage/porte-de-garage/
+True,Porte de service,https://www.bricodepot.fr/catalogue/construction-renovation/fenetre-porte-escalier/porte-dentree-interieure-garage/porte-de-service/
+True,Porte d'entrée,https://www.bricodepot.fr/catalogue/construction-renovation/fenetre-porte-escalier/porte-dentree-interieure-garage/porte-dentree/
+True,Porte coulissante,https://www.bricodepot.fr/catalogue/construction-renovation/fenetre-porte-escalier/porte-dentree-interieure-garage/porte-coulissante/
+True,Porte intérieure,https://www.bricodepot.fr/catalogue/construction-renovation/fenetre-porte-escalier/porte-dentree-interieure-garage/porte-interieure/
+False,Porte-fenêtre & Baie vitrée,https://www.bricodepot.fr/catalogue/construction-renovation/fenetre-porte-escalier/porte-fenetre-baie-vitree/
+False,Fenêtre aluminium - bois & PVC,https://www.bricodepot.fr/catalogue/construction-renovation/fenetre-porte-escalier/fenetre-aluminium-bois-pvc/
+False,Dressing & Rangement,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/
+True,Moustiquaires porte-fenêtre,https://www.bricodepot.fr/catalogue/construction-renovation/fenetre-porte-escalier/porte-fenetre-baie-vitree/moustiquaires-porte-fenetre/
+False,"Déménagement, transport et manutention",https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/demenagement-transport-et-manutention/
+True,Velux et fenêtre de toit,https://www.bricodepot.fr/catalogue/construction-renovation/fenetre-porte-escalier/fenetre-aluminium-bois-pvc/velux-et-fenetre-de-toit/
+False,Porte placard,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/porte-placard/
+True,Transport et manutention,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/demenagement-transport-et-manutention/transport-et-manutention/
+True,Protections déménagement,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/demenagement-transport-et-manutention/protections-demenagement/
+True,Guide et amortisseur porte placard,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/porte-placard/guide-et-amortisseur-porte-placard/
+True,Portes placard coulissantes,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/porte-placard/portes-placard-coulissantes/
+True,Rail porte coulissante placard,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/porte-placard/rail-porte-coulissante-placard/
+True,Ruban adhésif et dévidoir,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/demenagement-transport-et-manutention/ruban-adhesif-et-devidoir/
+True,Carton déménagement,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/demenagement-transport-et-manutention/carton-demenagement/
+False,"Rangement atelier, garage",https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/rangement-atelier-garage/
+False,Etagères de rangement,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/etageres-de-rangement/
+False,Aménagement dressing et accessoires,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/amenagement-dressing-et-accessoires/
+True,Crochet mural,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/rangement-atelier-garage/crochet-mural/
+True,Tablette murale,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/etageres-de-rangement/tablette-murale/
+True,Miroir dressing,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/amenagement-dressing-et-accessoires/miroir-dressing/
+True,Eclairage dressing,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/amenagement-dressing-et-accessoires/eclairage-dressing/
+True,Porte-manteau mural,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/amenagement-dressing-et-accessoires/porte-manteau-mural/
+True,Cintre,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/amenagement-dressing-et-accessoires/cintre/
+True,Support penderie,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/amenagement-dressing-et-accessoires/support-penderie/
+True,Tringle penderie,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/amenagement-dressing-et-accessoires/tringle-penderie/
+True,Portant vêtements,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/amenagement-dressing-et-accessoires/portant-vetements/
+True,Boites et sacs de rangements dressing,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/amenagement-dressing-et-accessoires/boites-et-sacs-de-rangements-dressing/
+True,Organisateur et séparateur de tiroir dressing,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/amenagement-dressing-et-accessoires/organisateur-et-separateur-de-tiroir-dressing/
+True,Porte chaussures,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/amenagement-dressing-et-accessoires/porte-chaussures/
+True,Porte pantalon,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/amenagement-dressing-et-accessoires/porte-pantalon/
+True,Étagère modulable,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/etageres-de-rangement/etagere-modulable/
+True,Panier placard,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/amenagement-dressing-et-accessoires/panier-placard/
+True,Cube de rangement,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/etageres-de-rangement/cube-de-rangement/
+True,Etagère bois,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/etageres-de-rangement/etagere-bois/
+True,Étagère résine - bois - métal & Charges lourdes,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/etageres-de-rangement/etagere-resine-bois-metal-charges-lourdes/
+True,Plateau et tréteau,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/rangement-atelier-garage/plateau-et-treteau/
+True,Rangement vélos,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/rangement-atelier-garage/rangement-velos/
+True,Panneau perforé,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/rangement-atelier-garage/panneau-perfore/
+True,Établi,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/rangement-atelier-garage/etabli/
+True,Servante d'atelier,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/rangement-atelier-garage/servante-datelier/
+True,Bac et coffre de rangement,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/rangement-atelier-garage/bac-et-coffre-de-rangement/
+True,Armoire rangement garage,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/rangement-atelier-garage/armoire-rangement-garage/
+True,Étagère garage,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/rangement-atelier-garage/etagere-garage/
+False,"Dressing modulable, à composer",https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/dressing-modulable-a-composer/
+True,Kit dressing,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/kit-dressing/
+True,Fenêtre bois,https://www.bricodepot.fr/catalogue/construction-renovation/fenetre-porte-escalier/fenetre-aluminium-bois-pvc/fenetre-bois/
+True,Poignée porte placard,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/dressing-modulable-a-composer/poignee-porte-placard/
+True,Assemblage et fixations,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/dressing-modulable-a-composer/assemblage-et-fixations/
+True,Rangement dressing,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/dressing-modulable-a-composer/rangement-dressing/
+True,Portes placard,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/dressing-modulable-a-composer/portes-placard/
+True,Tiroir dressing,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/dressing-modulable-a-composer/tiroir-dressing/
+True,Tablette dressing,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/dressing-modulable-a-composer/tablette-dressing/
+True,Caisson dressing,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/dressing-modulable-a-composer/caisson-dressing/
+True,Dressing à composer,https://www.bricodepot.fr/catalogue/amenagement-despaces/dressing-rangement/dressing-modulable-a-composer/dressing-a-composer/
+True,Fenêtre aluminium,https://www.bricodepot.fr/catalogue/construction-renovation/fenetre-porte-escalier/fenetre-aluminium-bois-pvc/fenetre-aluminium/
+True,Fenêtre PVC,https://www.bricodepot.fr/catalogue/construction-renovation/fenetre-porte-escalier/fenetre-aluminium-bois-pvc/fenetre-pvc/
+True,Baie vitrée PVC,https://www.bricodepot.fr/catalogue/construction-renovation/fenetre-porte-escalier/porte-fenetre-baie-vitree/baie-vitree-pvc/
+True,Baie vitrée aluminium,https://www.bricodepot.fr/catalogue/construction-renovation/fenetre-porte-escalier/porte-fenetre-baie-vitree/baie-vitree-aluminium/
+False,Salle de bains & WC,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/
+True,Porte-fenêtre aluminium - bois & PVC,https://www.bricodepot.fr/catalogue/construction-renovation/fenetre-porte-escalier/porte-fenetre-baie-vitree/porte-fenetre-aluminium-bois-pvc/
+False,Douche,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/douche/
+True,Robinetterie salle de bain,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/robinetterie-salle-de-bain/
+False,Luminaire de salle de bains,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/luminaire-de-salle-de-bains/
+True,Robinet de douche,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/douche/robinet-de-douche/
+True,"Pommeau, flexible et accessoire de douche",https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/douche/pommeau-flexible-et-accessoire-de-douche/
+True,Spot salle de bain,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/luminaire-de-salle-de-bains/spot-salle-de-bain/
+True,Plafonnier salle de bain,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/luminaire-de-salle-de-bains/plafonnier-salle-de-bain/
+True,Kit de douche,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/douche/kit-de-douche/
+True,Colonne de douche,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/douche/colonne-de-douche/
+True,Receveur de douche,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/douche/receveur-de-douche/
+True,Porte de douche,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/douche/porte-de-douche/
+True,Paroi de douche,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/douche/paroi-de-douche/
+True,Douche italienne,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/douche/douche-italienne/
+True,Cabine de douche,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/douche/cabine-de-douche/
+False,Accessoires de salle de bains,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/accessoires-de-salle-de-bains/
+True,Miroir de Salle de bains,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/miroir-de-salle-de-bains/
+False,Radiateur de salle de bains,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/radiateur-de-salle-de-bains/
+True,Panier à linge,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/accessoires-de-salle-de-bains/panier-a-linge/
+True,Accessoires PMR,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/accessoires-de-salle-de-bains/accessoires-pmr/
+True,Chauffage d'appoint,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/radiateur-de-salle-de-bains/chauffage-dappoint/
+True,Sèche-serviette,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/radiateur-de-salle-de-bains/seche-serviette/
+True,Poubelle salle de bains,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/accessoires-de-salle-de-bains/poubelle-salle-de-bains/
+True,Tapis de salle de bains,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/accessoires-de-salle-de-bains/tapis-de-salle-de-bains/
+True,Rideau & Barre de douche,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/accessoires-de-salle-de-bains/rideau-barre-de-douche/
+True,"Porte-savon, Boîte & Support de rangement",https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/accessoires-de-salle-de-bains/porte-savon-boite-support-de-rangement/
+True,Porte-serviettes et Patère,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/accessoires-de-salle-de-bains/porte-serviettes-et-patere/
+False,WC - Broyeur & Accessoires,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/wc-broyeur-accessoires/
+False,Plomberie de salle de bains & WC,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/plomberie-de-salle-de-bains-wc/
+False,Lavabo & Vasque,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/lavabo-vasque/
+True,Abattant WC,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/wc-broyeur-accessoires/abattant-wc/
+True,Siphon et bonde,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/plomberie-de-salle-de-bains-wc/siphon-et-bonde/
+True,Robinet lavabo,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/lavabo-vasque/robinet-lavabo/
+True,Lavabo,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/lavabo-vasque/lavabo/
+True,Vasque à encastrer,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/lavabo-vasque/vasque-a-encastrer/
+True,Évacuation baignoire,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/plomberie-de-salle-de-bains-wc/evacuation-baignoire/
+True,Vasque à poser,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/lavabo-vasque/vasque-a-poser/
+True,Évacuation WC,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/plomberie-de-salle-de-bains-wc/evacuation-wc/
+True,Mécanisme WC,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/plomberie-de-salle-de-bains-wc/mecanisme-wc/
+True,"Alimentation, raccord et joint WC et salle de bains",https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/plomberie-de-salle-de-bains-wc/alimentation-raccord-et-joint-wc-et-salle-de-bains/
+True,Meuble WC,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/wc-broyeur-accessoires/meuble-wc/
+True,Accessoire WC,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/wc-broyeur-accessoires/accessoire-wc/
+True,WC suspendu,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/wc-broyeur-accessoires/wc-suspendu/
+True,Broyeur,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/wc-broyeur-accessoires/broyeur/
+True,WC à poser,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/wc-broyeur-accessoires/wc-a-poser/
+False,Meubles & rangement de salle de bains,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/meubles-rangement-de-salle-de-bains/
+False,Baignoire & Balnéo,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/baignoire-balneo/
+True,Modèle de salle de bains,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/meubles-rangement-de-salle-de-bains/modele-de-salle-de-bains/
+True,Etagère pour salle de bains,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/meubles-rangement-de-salle-de-bains/etagere-pour-salle-de-bains/
+True,Robinet baignoire,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/baignoire-balneo/robinet-baignoire/
+True,Pare-baignoire,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/baignoire-balneo/pare-baignoire/
+True,Baignoire îlot,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/baignoire-balneo/baignoire-ilot/
+True,Baignoire balnéo,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/baignoire-balneo/baignoire-balneo/
+True,Baignoire,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/baignoire-balneo/baignoire/
+True,Rangement mural,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/meubles-rangement-de-salle-de-bains/rangement-mural/
+True,Colonne salle de bains,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/meubles-rangement-de-salle-de-bains/colonne-salle-de-bains/
+True,Meuble lave-mains,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/meubles-rangement-de-salle-de-bains/meuble-lave-mains/
+True,Meuble gain de place,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/meubles-rangement-de-salle-de-bains/meuble-gain-de-place/
+True,Meuble de salle de bains,https://www.bricodepot.fr/catalogue/amenagement-despaces/salle-de-bains-wc/meubles-rangement-de-salle-de-bains/meuble-de-salle-de-bains/
