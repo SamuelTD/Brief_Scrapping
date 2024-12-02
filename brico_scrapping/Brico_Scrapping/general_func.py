@@ -1,10 +1,9 @@
 import random as r
 import json
-from items import CategoryItem
 
 def get_categories_url() -> any:
     """
-    
+    Return all categories that are product page lists.
     """
     try:
         with open("bricospider_categories.json") as file:
@@ -141,10 +140,7 @@ def get_random_user_agent():
     'Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 OPR/77.0.4054.277',
     'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 OPR/77.0.4054.277',
     'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0',     
-    ]
-    
-    return "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-    
+    ]    
     return user_agent_list[r.randint(0, len(user_agent_list)-1)]
 
 # if __name__ == "__main__":

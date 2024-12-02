@@ -24,11 +24,7 @@ class BricospiderSpider(scrapy.Spider):
                     'url' : self.current_url
                 }              
                 yield response.follow(self.current_url, callback = self.parse_sub_category, headers={"User-Agent": g.get_random_user_agent()}, meta=meta)
-                
-        
-   
- 
-        
+                  
     def parse_sub_category(self, response):
         
         subcategories = response.css("a.bd-CategoryItem-link")
