@@ -23,7 +23,8 @@ class BricospiderSpider(scrapy.Spider):
                     'name': category.css('a::attr(data-label)').get(),
                     'url' : self.current_url
                 }              
-                yield response.follow(self.current_url, callback = self.parse_sub_category, headers={"User-Agent": g.get_random_user_agent()}, meta=meta)
+                yield response.follow(self.current_url, callback = self.parse_sub_category, 
+                                      headers={"User-Agent": g.get_random_user_agent()}, meta=meta)
                   
     def parse_sub_category(self, response):
         
@@ -33,7 +34,9 @@ class BricospiderSpider(scrapy.Spider):
                     'name': subcategory.css("a.bd-CategoryItem-link").attrib["title"],
                     'url' : self.start_urls[0].rstrip("/")+subcategory.css("a.bd-CategoryItem-link").attrib["href"]
                 }          
-                yield response.follow(self.start_urls[0].rstrip("/")+subcategory.css("a.bd-CategoryItem-link").attrib["href"], callback=self.parse_sub_category, headers={"User-Agent": g.get_random_user_agent()}, meta=meta)
+                yield response.follow(self.start_urls[0].rstrip("/")+subcategory.css("a.bd-CategoryItem-link").attrib["href"], 
+                                      callback=self.parse_sub_category, 
+                                      headers={"User-Agent": g.get_random_user_agent()}, meta=meta)
         category_item = CategoryItem()            
         category_item["name"] = response.meta["name"]
         category_item["url"] = response.meta["url"]
